@@ -1,0 +1,4 @@
+interface Contavel 
+{
+	void imprimir();
+}
